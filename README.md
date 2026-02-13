@@ -1,4 +1,4 @@
-# Churn-Prediction-Analysis
+# 📉 Churn Prediction Analysis
 ## 👤 Author
 **Bahre Hailemariam**  
 📍 *Data Analyst & BI Developer \| 4+ Years Experience*\
