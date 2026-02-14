@@ -82,37 +82,37 @@ Churn-Prediction-Analysis/
 ## 🔄 Workflow Summary
 ### 1️⃣ Data Collection
 
-Customer demographic data
+- Customer demographic data
 
-Subscription details
+- Subscription details
 
-Usage behavior
+- Usage behavior
 
-Billing history
+- Billing history
 
-Support interactions
+- Support interactions
 
 ### 2️⃣ Data Cleaning
 
-Handle missing values
+- Handle missing values
 
-Remove duplicates
+- Remove duplicates
 
-Normalize categorical variables
+- Normalize categorical variables
 
-Detect outliers
+- Detect outliers
 
 ### 3️⃣ Feature Engineering
 
-Tenure length
+- Tenure length
 
-Monthly spending
+- Monthly spending
 
-Average usage
+- Average usage
 
-Payment behavior
+- Payment behavior
 
-Support ticket frequency
+- Support ticket frequency
 
 Engagement score
 
@@ -120,37 +120,37 @@ Engagement score
 
 Models evaluated:
 
-Logistic Regression
+- Logistic Regression
 
-Random Forest
+- Random Forest
 
-Gradient Boosting
+- Gradient Boosting
 
-XGBoost
+- XGBoost
 
 ### 5️⃣ Model Evaluation
 
-Key metrics:
+- Key metrics:
 
-Accuracy
+- Accuracy
 
-Precision
+- Precision
 
-Recall
+- Recall
 
-F1-Score
+- F1-Score
 
-ROC-AUC
+- ROC-AUC
 
-Confusion Matrix
+- Confusion Matrix
 
 ### 6️⃣ Insights & Retention Strategy
 
-Identify top churn drivers
+- Identify top churn drivers
 
-Segment customers by risk
+- Segment customers by risk
 
-Recommend retention interventions
+- Recommend retention interventions
 
 📊 Power BI Dashboard Overview
 📄 Pages Included
