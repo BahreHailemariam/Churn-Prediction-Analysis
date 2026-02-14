@@ -18,17 +18,17 @@ The project includes:
 - Optional dashboard or app integration
 
 
-🎯 Business Objectives
+## 🎯 Business Objectives
 
-Identify high-risk customers before churn occurs
+- Identify high-risk customers before churn occurs
 
-Reduce customer acquisition replacement costs
+- Reduce customer acquisition replacement costs
 
-Improve retention strategies
+- Improve retention strategies
 
-Enable targeted intervention campaigns
+- Enable targeted intervention campaigns
 
-Increase customer lifetime value (CLV)
+- Increase customer lifetime value (CLV)
 
 🧠 Problem Statement
 
