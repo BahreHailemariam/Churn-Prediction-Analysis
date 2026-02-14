@@ -30,17 +30,17 @@ The project includes:
 
 - Increase customer lifetime value (CLV)
 
-🧠 Problem Statement
+## 🧠 Problem Statement
 
 Customer churn significantly impacts profitability. Retaining existing customers is often cheaper than acquiring new ones. This project aims to:
 
-Predict the probability of churn
+- Predict the probability of churn
 
-Understand key drivers behind churn
+- Understand key drivers behind churn
 
-Segment customers by churn risk
+- Segment customers by churn risk
 
-Provide actionable recommendations
+- Provide actionable recommendations
 
 📂 Project Structure
 Churn-Prediction-Analysis/
