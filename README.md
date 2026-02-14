@@ -79,8 +79,8 @@ Churn-Prediction-Analysis/
 ├── requirements.txt
 └── README.md
 ```
-🔄 Workflow Summary
-1️⃣ Data Collection
+## 🔄 Workflow Summary
+### 1️⃣ Data Collection
 
 Customer demographic data
 
@@ -92,7 +92,7 @@ Billing history
 
 Support interactions
 
-2️⃣ Data Cleaning
+### 2️⃣ Data Cleaning
 
 Handle missing values
 
@@ -102,7 +102,7 @@ Normalize categorical variables
 
 Detect outliers
 
-3️⃣ Feature Engineering
+### 3️⃣ Feature Engineering
 
 Tenure length
 
@@ -116,7 +116,7 @@ Support ticket frequency
 
 Engagement score
 
-4️⃣ Model Development
+### 4️⃣ Model Development
 
 Models evaluated:
 
@@ -128,7 +128,7 @@ Gradient Boosting
 
 XGBoost
 
-5️⃣ Model Evaluation
+### 5️⃣ Model Evaluation
 
 Key metrics:
 
@@ -144,7 +144,7 @@ ROC-AUC
 
 Confusion Matrix
 
-6️⃣ Insights & Retention Strategy
+### 6️⃣ Insights & Retention Strategy
 
 Identify top churn drivers
 
