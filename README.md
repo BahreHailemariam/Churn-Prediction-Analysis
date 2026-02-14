@@ -42,7 +42,8 @@ Customer churn significantly impacts profitability. Retaining existing customers
 
 - Provide actionable recommendations
 
-📂 Project Structure
+## 📂 Project Structure
+```
 Churn-Prediction-Analysis/
 │
 ├── data/
@@ -77,6 +78,7 @@ Churn-Prediction-Analysis/
 │
 ├── requirements.txt
 └── README.md
+```
 🔄 Workflow Summary
 1️⃣ Data Collection
 
