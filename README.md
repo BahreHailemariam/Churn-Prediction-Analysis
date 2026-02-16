@@ -258,15 +258,15 @@ streamlit run scripts/app.py
 
 ## 🎯 Business Impact
 
-This project enables:
+- This project enables:
 
-Early churn detection
+- Early churn detection
 
-Data-driven retention strategy
+- Data-driven retention strategy
 
-Reduced revenue leakage
+- Reduced revenue leakage
 
-Improved marketing ROI
+- Improved marketing ROI
 
 ## 👤 Author
 **Bahre Hailemariam**  
