@@ -223,33 +223,38 @@ Models evaluated:
 - **Jupyter Notebook** (EDA & experimentation)
 
 ## 🚀 How to Run
-Install dependencies
-pip install -r requirements.txt
-Train model
+**Install dependencies**
+```pip install -r requirements.txt
+```
+**Train model**
+```
 python scripts/train_model.py
-Launch app (optional)
+```
+**Launch app (optional)**
+```
 streamlit run scripts/app.py
+```
 ## 🧩 Key Insights Example
 
-Customers with short tenure are more likely to churn
+- Customers with short tenure are more likely to churn
 
-High support ticket frequency correlates with churn
+- High support ticket frequency correlates with churn
 
-Contract type significantly affects retention
+- Contract type significantly affects retention
 
-Price sensitivity impacts churn probability
+- Price sensitivity impacts churn probability
 
 ## 📌 Future Improvements
 
-Deploy as REST API (FastAPI)
+- Deploy as REST API (FastAPI)
 
-Real-time churn scoring
+- Real-time churn scoring
 
-Automated retention campaign triggers
+- Automated retention campaign triggers
 
-Deep learning models
+- Deep learning models
 
-Customer lifetime value prediction
+- Customer lifetime value prediction
 
 ## 🎯 Business Impact
 
