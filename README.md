@@ -212,24 +212,24 @@ Models evaluated:
 
 ## 🛠️ Tools & Technologies
 
-- Python (pandas, numpy, scikit-learn, XGBoost)
+- **Python** (pandas, numpy, scikit-learn, XGBoost)
 
-- SQL (data preparation & KPI metrics)
+- **SQL** (data preparation & KPI metrics)
 
-- Power BI (interactive dashboards)
+- **Power BI** (interactive dashboards)
 
-- Streamlit (optional web app)
+- **Streamlit** (optional web app)
 
-- Jupyter Notebook (EDA & experimentation)
+- **Jupyter Notebook** (EDA & experimentation)
 
-🚀 How to Run
+## 🚀 How to Run
 Install dependencies
 pip install -r requirements.txt
 Train model
 python scripts/train_model.py
 Launch app (optional)
 streamlit run scripts/app.py
-🧩 Key Insights Example
+## 🧩 Key Insights Example
 
 Customers with short tenure are more likely to churn
 
@@ -239,7 +239,7 @@ Contract type significantly affects retention
 
 Price sensitivity impacts churn probability
 
-📌 Future Improvements
+## 📌 Future Improvements
 
 Deploy as REST API (FastAPI)
 
@@ -251,7 +251,7 @@ Deep learning models
 
 Customer lifetime value prediction
 
-🎯 Business Impact
+## 🎯 Business Impact
 
 This project enables:
 
@@ -263,19 +263,6 @@ Reduced revenue leakage
 
 Improved marketing ROI
 
-If you'd like, I can also generate:
-
-📘 Detailed PowerBI_Report_Spec.md
-
-🧠 Full ML scripts
-
-📊 SQL analytics layer
-
-📦 Complete GitHub-ready ZIP structure
-
-🎤 Interview-ready explanation of this project
-
-Just tell me what you'd like next 👍
 ## 👤 Author
 **Bahre Hailemariam**  
 📍 *Data Analyst & BI Developer \| 4+ Years Experience*\
