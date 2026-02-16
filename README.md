@@ -152,43 +152,43 @@ Models evaluated:
 
 - Recommend retention interventions
 
-📊 Power BI Dashboard Overview
-📄 Pages Included
-1️⃣ Executive Summary
+## 📊 Power BI Dashboard Overview
+### 📄 Pages Included
+### 1️⃣ Executive Summary
 
-Total Customers
+- Total Customers
 
-Churn Rate
+- Churn Rate
 
-Active vs Churned Customers
+- Active vs Churned Customers
 
-Revenue at Risk
+- Revenue at Risk
 
-2️⃣ Churn Risk Analysis
+### 2️⃣ Churn Risk Analysis
 
-Risk Distribution (Low/Medium/High)
+- Risk Distribution (Low/Medium/High)
 
-Probability Score Distribution
+- Probability Score Distribution
 
-Top Predictive Features
+- Top Predictive Features
 
-3️⃣ Behavioral Insights
+### 3️⃣ Behavioral Insights
 
-Usage patterns by churn status
+- Usage patterns by churn status
 
-Tenure vs churn trend
+- Tenure vs churn trend
 
-Payment behavior analysis
+- Payment behavior analysis
 
-4️⃣ Revenue Impact
+### 4️⃣ Revenue Impact
 
-Revenue loss by churn segment
+- Revenue loss by churn segment
 
-High-value customers at risk
+- High-value customers at risk
 
-CLV comparison
+- CLV comparison
 
-5️⃣ Retention Strategy Planner
+### 5️⃣ Retention Strategy Planner
 
 Target list of at-risk customers
 
