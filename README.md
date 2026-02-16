@@ -196,7 +196,7 @@ Models evaluated:
 
 - Priority scoring
 
-📈 Key KPIs
+## 📈 Key KPIs
 
 - Churn Rate
 
@@ -210,17 +210,17 @@ Models evaluated:
 
 - Intervention Success Rate (optional)
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
-Python (pandas, numpy, scikit-learn, XGBoost)
+- Python (pandas, numpy, scikit-learn, XGBoost)
 
-SQL (data preparation & KPI metrics)
+- SQL (data preparation & KPI metrics)
 
-Power BI (interactive dashboards)
+- Power BI (interactive dashboards)
 
-Streamlit (optional web app)
+- Streamlit (optional web app)
 
-Jupyter Notebook (EDA & experimentation)
+- Jupyter Notebook (EDA & experimentation)
 
 🚀 How to Run
 Install dependencies
