@@ -190,25 +190,25 @@ Models evaluated:
 
 ### 5️⃣ Retention Strategy Planner
 
-Target list of at-risk customers
+- Target list of at-risk customers
 
-Suggested intervention type
+- Suggested intervention type
 
-Priority scoring
+- Priority scoring
 
 📈 Key KPIs
 
-Churn Rate
+- Churn Rate
 
-Customer Retention Rate
+- Customer Retention Rate
 
-Revenue at Risk
+- Revenue at Risk
 
-Average Tenure
+- Average Tenure
 
-Average Monthly Revenue
+- Average Monthly Revenue
 
-Intervention Success Rate (optional)
+- Intervention Success Rate (optional)
 
 🛠️ Tools & Technologies
 
