@@ -224,7 +224,8 @@ Models evaluated:
 
 ## 🚀 How to Run
 **Install dependencies**
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 **Train model**
 ```
