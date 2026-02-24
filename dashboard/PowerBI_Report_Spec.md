@@ -122,22 +122,23 @@ CALCULATE(
     churn_features[churn_flag] = 1
 )
 ```
-Visuals
+**Visuals**
 
-Donut: Active vs Churned
+- Donut: Active vs Churned
 
-Bar Chart: Churn by Contract Type
+- Bar Chart: Churn by Contract Type
 
-Line Chart: Churn Trend Over Time
+- Line Chart: Churn Trend Over Time
 
-Card: Revenue At Risk
+- Card: Revenue At Risk
 
-📄 PAGE 2 — Churn Risk Analysis
-🎯 Purpose
+## 📄 PAGE 2 — Churn Risk Analysis
+### 🎯 Purpose
 
 Segment customers by churn probability & behavioral signals.
 
-Risk Band (Calculated Column)
+**Risk Band (Calculated Column)**
+```
 Risk Band =
 SWITCH(
     TRUE(),
@@ -145,29 +146,33 @@ SWITCH(
     churn_features[recency_days] > 45, "Medium Risk",
     "Low Risk"
 )
-Risk Distribution Measure
+```
+**Risk Distribution Measure**
+```
 Customers by Risk =
 COUNTROWS(churn_features)
-
+```
 Used in:
 
 Stacked Bar (Risk Band vs Count)
 
-Average Recency
+**Average Recency**
+```
 Avg Recency =
 AVERAGE(churn_features[recency_days])
 Avg Support Ticket Ratio
 Avg Ticket Ratio =
 AVERAGE(churn_features[support_ticket_ratio])
-Visuals
+```
+**Visuals**
 
-Bar Chart: Customers by Risk Band
+- Bar Chart: Customers by Risk Band
 
-Scatter: Recency vs Monthly Spend
+- Scatter: Recency vs Monthly Spend
 
-Table: Top High-Risk Customers
+- Table: Top High-Risk Customers
 
-Matrix: Risk Band × Contract Type
+- Matrix: Risk Band × Contract Type
 
 📄 PAGE 3 — Behavioral Insights
 🎯 Purpose
