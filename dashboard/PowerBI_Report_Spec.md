@@ -84,7 +84,7 @@ Relationships:
 
 High-level churn monitoring & financial impact.
 
-KPI Cards (Top Section)
+#### KPI Cards (Top Section)
 **1️⃣ Total Customers**
 ```
 Total Customers =
@@ -174,12 +174,13 @@ AVERAGE(churn_features[support_ticket_ratio])
 
 - Matrix: Risk Band × Contract Type
 
-📄 PAGE 3 — Behavioral Insights
-🎯 Purpose
+## 📄 PAGE 3 — Behavioral Insights
+### 🎯 Purpose
 
 Identify churn drivers.
 
-Avg Monthly Spend
+**Avg Monthly Spend**
+```
 Avg Monthly Spend =
 AVERAGE(fact_subscription[monthly_charges])
 Avg Tenure
@@ -188,15 +189,16 @@ AVERAGE(fact_subscription[tenure_months])
 Support Tickets per Customer
 Avg Support Tickets =
 AVERAGE(fact_subscription[support_tickets])
-Visuals
+```
+**Visuals**
 
-Box Plot: Tenure by Churn Flag
+- Box Plot: Tenure by Churn Flag
 
-Bar: Support Tickets by Churn Status
+- Bar: Support Tickets by Churn Status
 
-Line: Spend Trend Over Time
+- Line: Spend Trend Over Time
 
-Matrix: Contract Type × Churn Rate
+- Matrix: Contract Type × Churn Rate
 
 📄 PAGE 4 — Revenue Impact
 🎯 Purpose
