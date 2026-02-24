@@ -29,49 +29,49 @@ Designed for:
 
 - `fact_subscription`
 
-- customer_id
+  - customer_id
 
-- tenure_months
+  - tenure_months
 
-- monthly_charges
+  - monthly_charges
 
-- total_charges
+  - total_charges
 
-- support_tickets
+  - support_tickets
 
-- churn_flag
+  - churn_flag
 
-- snapshot_date
+  - snapshot_date
 
 **Dimension Tables**
 
 - `dim_customers`
 
-- customer_id
+  - customer_id
 
-- region
+  - region
 
-- contract_type
+  - contract_type
 
-- payment_method
+  - payment_method
 
-- internet_service
+  - internet_service
 
 **Feature Table**
 
 - `churn_features`
 
-- customer_id
+  - customer_id
 
-- recency_days
+  - recency_days
 
-- avg_monthly_spend
+  - avg_monthly_spend
 
-- support_ticket_ratio
+  - support_ticket_ratio
 
-- long_term_flag
+  - long_term_flag
 
-- churn_flag
+  - churn_flag
 
 Relationships:
 
