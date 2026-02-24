@@ -200,37 +200,45 @@ AVERAGE(fact_subscription[support_tickets])
 
 - Matrix: Contract Type × Churn Rate
 
-📄 PAGE 4 — Revenue Impact
-🎯 Purpose
+## 📄 PAGE 4 — Revenue Impact
+### 🎯 Purpose
 
 Financial implications of churn.
 
-Monthly Revenue
+**Monthly Revenue**
+```
 Monthly Revenue =
 SUM(fact_subscription[monthly_charges])
-Lost Revenue
+```
+**Lost Revenue**
+```
 Lost Revenue =
 CALCULATE(
     SUM(fact_subscription[monthly_charges]),
     churn_features[churn_flag] = 1
 )
-Revenue Retention Rate
+```
+**Revenue Retention Rate**
+```
 Revenue Retention =
 1 - DIVIDE([Lost Revenue], [Monthly Revenue])
-High Value Customers at Risk
+```
+**High Value Customers at Risk**
+```
 High Value At Risk =
 CALCULATE(
     COUNTROWS(churn_features),
     churn_features[churn_flag] = 0,
     churn_features[avg_monthly_spend] > 100
 )
-Visuals
+```
+**Visuals**
 
-Waterfall: Revenue Breakdown
+- Waterfall: Revenue Breakdown
 
-Bar: Revenue by Risk Band
+- Bar: Revenue by Risk Band
 
-KPI Card: Revenue Retention %
+- KPI Card: Revenue Retention %
 
 📄 PAGE 5 — Retention Planner
 🎯 Purpose
