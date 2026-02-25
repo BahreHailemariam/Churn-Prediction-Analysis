@@ -274,17 +274,17 @@ IF(churn_features[recency_days] > 60, 1.5, 1)
 
 - Bar: Priority by Segment
 
-🎛 Global Slicers
+## 🎛 Global Slicers
 
-Date Range
+- Date Range
 
-Region
+- Region
 
-Contract Type
+- Contract Type
 
-Payment Method
+- Payment Method
 
-Risk Band
+- Risk Band
 
 ## 📊 Color Logic
 
