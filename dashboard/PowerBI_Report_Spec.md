@@ -296,17 +296,17 @@ Low Risk → Green
 
 Revenue Loss → Dark Red
 
-🧠 Executive Insights This Dashboard Enables
+## 🧠 Executive Insights This Dashboard Enables
 
-Identify early churn signals
+- Identify early churn signals
 
-Quantify revenue exposure
+- Quantify revenue exposure
 
-Target high-value at-risk customers
+- Target high-value at-risk customers
 
-Optimize retention incentives
+- Optimize retention incentives
 
-Track churn trend over time
+- Track churn trend over time
 
 ## 🚀 Optional Advanced Enhancements
 
