@@ -308,12 +308,12 @@ Optimize retention incentives
 
 Track churn trend over time
 
-🚀 Optional Advanced Enhancements
+## 🚀 Optional Advanced Enhancements
 
-ML probability score column
+- ML probability score column
 
-SHAP explanation integration
+- SHAP explanation integration
 
-Power Automate alert for high-risk VIP
+- Power Automate alert for high-risk VIP
 
-Rolling 30-day churn forecast
+- Rolling 30-day churn forecast
