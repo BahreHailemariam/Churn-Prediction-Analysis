@@ -286,15 +286,15 @@ Payment Method
 
 Risk Band
 
-📊 Color Logic
+## 📊 Color Logic
 
-High Risk → Red
+- High Risk → Red
 
-Medium Risk → Orange
+- Medium Risk → Orange
 
-Low Risk → Green
+- Low Risk → Green
 
-Revenue Loss → Dark Red
+- Revenue Loss → Dark Red
 
 ## 🧠 Executive Insights This Dashboard Enables
 
