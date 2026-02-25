@@ -240,37 +240,39 @@ CALCULATE(
 
 - KPI Card: Revenue Retention %
 
-📄 PAGE 5 — Retention Planner
-🎯 Purpose
+## 📄 PAGE 5 — Retention Planner
+### 🎯 Purpose
 
 Actionable targeting list.
 
-Retention Priority Score
+**Retention Priority Score**
+```
 Retention Priority =
 churn_features[avg_monthly_spend] *
 (1 + churn_features[support_ticket_ratio]) *
 IF(churn_features[recency_days] > 60, 1.5, 1)
-Visuals
+```
+**Visuals**
 
-Table:
+- Table:
 
-Customer ID
+  - Customer ID
 
-Risk Band
+  - Risk Band
 
-Monthly Spend
+  - Monthly Spend
 
-Priority Score
+  - Priority Score
 
-Slicers:
+- Slicers:
 
-Region
+  - Region
 
-Contract Type
+  - Contract Type
 
-Risk Band
+  - Risk Band
 
-Bar: Priority by Segment
+- Bar: Priority by Segment
 
 🎛 Global Slicers
 
